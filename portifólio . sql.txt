@@ -1,7 +1,3 @@
-Código SQL :
-
-
-
 CREATE TABLE Autor (
     id_autor INT PRIMARY KEY,
     nome VARCHAR(100) NOT NULL
